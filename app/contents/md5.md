@@ -6,6 +6,6 @@ method: md5
 action: Hash
 auto_update: true
 hex_input: true
-description: MD5 online hash function
+description: MD5 哈希值
 keywords: MD5,online,hash
 ---

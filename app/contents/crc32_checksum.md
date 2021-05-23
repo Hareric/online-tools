@@ -1,5 +1,5 @@
 ---
-title: CRC-32 File Checksum
+title: CRC-32 文件校验码
 template: page.pug
 js: https://cdn.jsdelivr.net/gh/emn178/js-crc/build/crc.min.js
 method: crc32

@@ -7,6 +7,6 @@ bits: 256
 action: Hash
 auto_update: true
 hex_input: true
-description: Shake-128 online hash function
+description: Shake-128 哈希值
 keywords: SHA3,Keccak,Shake,online,hash
 ---

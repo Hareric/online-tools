@@ -6,6 +6,6 @@ method: crc32
 action: Hash
 auto_update: true
 hex_input: true
-description: CRC-32 online hash function
+description: CRC-32 哈希值
 keywords: CRC,CRC-32,online,hash
 ---

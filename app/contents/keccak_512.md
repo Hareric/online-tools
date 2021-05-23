@@ -6,6 +6,6 @@ method: keccak_512
 action: Hash
 auto_update: true
 hex_input: true
-description: Keccak-512 online hash function
+description: Keccak-512 哈希值
 keywords: SHA3,Keccak,online,hash
 ---

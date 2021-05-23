@@ -6,6 +6,6 @@ method: sha1
 action: Hash
 auto_update: true
 hex_input: true
-description: SHA1 online hash function
+description: SHA1 哈希值
 keywords: SHA1,online,hash
 ---

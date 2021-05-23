@@ -6,6 +6,6 @@ method: md4
 action: Hash
 auto_update: true
 file_input: true
-description: MD4 online hash file checksum function
+description: MD4 文件校验码
 keywords: MD4,online,hash,checksum
 ---

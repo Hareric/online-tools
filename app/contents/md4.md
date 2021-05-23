@@ -6,6 +6,6 @@ method: md4
 action: Hash
 auto_update: true
 hex_input: true
-description: MD4 online hash function
+description: MD4 哈希值
 keywords: MD4,online,hash
 ---

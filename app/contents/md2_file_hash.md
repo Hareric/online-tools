@@ -6,6 +6,6 @@ method: md2
 action: Hash
 auto_update: true
 file_input: true
-description: MD2 online hash file checksum function
+description: MD2 文件校验码
 keywords: MD2,online,hash,checksum
 ---

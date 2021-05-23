@@ -6,6 +6,6 @@ method: crc16
 action: Hash
 auto_update: true
 hex_input: true
-description: CRC-16 online hash function
+description: CRC-16 哈希值
 keywords: CRC,CRC-16,online,hash
 ---

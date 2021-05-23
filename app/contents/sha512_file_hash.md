@@ -6,6 +6,6 @@ method: sha512
 action: Hash
 auto_update: true
 file_input: true
-description: SHA512 online hash file checksum function
+description: SHA512 文件校验码
 keywords: SHA512,online,hash,checksum
 ---
