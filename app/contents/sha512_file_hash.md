@@ -1,7 +1,7 @@
 ---
 title: SHA512 File Hash
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-sha512/build/sha512.min.js
+js: function/js-sha512/build/sha512.min.js
 method: sha512
 action: Hash
 auto_update: true

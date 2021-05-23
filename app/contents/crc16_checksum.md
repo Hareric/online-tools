@@ -1,7 +1,7 @@
 ---
 title: CRC-16 文件校验码
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-crc/build/crc.min.js
+js: function/js-crc/build/crc.min.js
 method: crc16
 action: Hash
 auto_update: true

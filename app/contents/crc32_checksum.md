@@ -1,7 +1,7 @@
 ---
 title: CRC-32 文件校验码
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-crc/build/crc.min.js
+js: function/js-crc/build/crc.min.js
 method: crc32
 action: Hash
 auto_update: true

@@ -1,7 +1,7 @@
 ---
 title: Keccak-384 文件校验码
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-sha3/build/sha3.min.js
+js: function/js-sha3/build/sha3.min.js
 method: keccak_384
 action: Hash
 auto_update: true

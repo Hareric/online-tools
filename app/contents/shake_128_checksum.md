@@ -1,7 +1,7 @@
 ---
 title: SHAKE-128 文件校验码
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-sha3/build/sha3.min.js
+js: function/js-sha3/build/sha3.min.js
 method: shake_128
 bits: 256
 action: Hash

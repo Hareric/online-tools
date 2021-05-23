@@ -1,7 +1,7 @@
 ---
 title: MD5
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-md5/build/md5.min.js
+js: function/js-md5/build/md5.min.js
 method: md5
 action: Hash
 auto_update: true

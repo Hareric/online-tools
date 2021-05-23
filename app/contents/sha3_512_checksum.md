@@ -1,7 +1,7 @@
 ---
 title: SHA3-512 文件校验码
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-sha3/build/sha3.min.js
+js: function/js-sha3/build/sha3.min.js
 method: sha3_512
 action: Hash
 auto_update: true

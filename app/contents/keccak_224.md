@@ -1,7 +1,7 @@
 ---
 title: Keccak-224
 template: page.pug
-js: https://cdn.jsdelivr.net/gh/emn178/js-sha3/build/sha3.min.js
+js: function/js-sha3/build/sha3.min.js
 method: keccak_224
 action: Hash
 auto_update: true
